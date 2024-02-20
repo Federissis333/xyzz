@@ -1,0 +1,4 @@
+Python requirements
+colorama
+
+if instanly closes type cmd in the file explorer bar and past this in cmd: pip install colorama
